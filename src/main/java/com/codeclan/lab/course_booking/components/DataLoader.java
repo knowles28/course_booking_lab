@@ -16,7 +16,7 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.time.format.DateTimeFormatter;
 
-@Component
+//@Component
 public class DataLoader implements ApplicationRunner {
 
     public DataLoader() {
